@@ -8,3 +8,6 @@ pasos para ejecutar el proyecto:
 4. Abrir el proyecto ```http://local host```
 
 ## Producción
+
+1. Ejecutar ```npm run build```
+2. Tomar la carpeta ```dist``` y desplegarla
